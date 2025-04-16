@@ -27,10 +27,10 @@ Developed as part of the **Computer Graphics and Biomedical Visualization** cour
 <table>
   <tr>
    <td>
-      <img src="https://github.com/user-attachments/assets/2f5df3d8-b32a-4190-a801-2484aff544c2" alt="Environment Design 1">
+      <img src="https://github.com/user-attachments/assets/b9712c37-e123-4e59-bd63-50e0fc48aae3">
    </td>
    <td>
-      <img src="https://github.com/user-attachments/assets/99c76ead-bbde-45c4-8110-485f33b37148" alt="Environment Design 2" >
+      <img src="https://github.com/user-attachments/assets/6a972b39-9200-4f8a-a1b2-1fad692e9a44" >
    </td>
   </tr>
 </table>
@@ -40,10 +40,10 @@ Developed as part of the **Computer Graphics and Biomedical Visualization** cour
 <table>
   <tr>
    <td>
-      <img src="https://github.com/user-attachments/assets/5cf282e6-5366-453b-ba69-83e3b7bab0df" alt="Equipment Animation 1">
+      <img src="https://github.com/user-attachments/assets/545dc43f-88a1-4b67-9478-e8710b0dd2d2">
    </td>
    <td>
-      <img src="https://github.com/user-attachments/assets/b6644834-e753-49a9-bac6-fa84f7d33a4e" alt="Equipment Animation 2">
+      <img src="https://github.com/user-attachments/assets/8a42f251-1503-4242-8c55-0331950972e9">
    </td>
   </tr>
 </table>
@@ -53,10 +53,10 @@ Developed as part of the **Computer Graphics and Biomedical Visualization** cour
 <table>
   <tr>
    <td>
-      <img src="https://github.com/user-attachments/assets/9532557b-b405-4dd3-874a-fb97e3770530" alt="Character Animation 1">
+      <img src="https://github.com/user-attachments/assets/f615e9a2-f14f-433e-90a2-c9f3d2632318" alt="Character Animation 1">
    </td>
    <td>
-      <img src="https://github.com/user-attachments/assets/416bf50a-6377-48f6-a752-3bd040a7c18d" alt="Character Animation 2">
+      <img src="https://github.com/user-attachments/assets/4963e0fe-d07e-4d29-91db-c2054bdd61f3" alt="Character Animation 2">
    </td>
   </tr>
 </table>
